@@ -1,5 +1,8 @@
 How are you&
 i am fine, and you
 im fine two
+<<<<<<< HEAD
 enjoy
 deleted changes
+=======
+>>>>>>> af136a576d195870026c33469a032e6e499945f0
